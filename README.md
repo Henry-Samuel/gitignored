@@ -64,6 +64,10 @@ gitignored
     └── test_gitignored.py
 ```
 
+## Links
+
+- [Project repository](https://github.com/Henry-Samuel/gitignored)
+
 ## Tags / keywords
 
 git, gitignore, repository audit, developer tool, cli, python

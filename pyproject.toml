@@ -9,7 +9,7 @@ description = "Inspect untracked and ignored paths inside a Git worktree."
 readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
-authors = [{ name = "Felix Hartmann" }]
+authors = [{ name = "Henry Samuel" }]
 keywords = ["git", "gitignore", "cli", "repository", "audit"]
 classifiers = [
   "Development Status :: 3 - Alpha",
